@@ -1,0 +1,212 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=latex 2016.10.4)  14 OCT 2016 17:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**csdm.tex
+(./csdm.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 4 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (./csdm.aux)
+\openout1 = `csdm.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+[1
+
+
+
+] (./csdm.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+ [1
+
+])
+\tf@toc=\write3
+\openout3 = `csdm.toc'.
+
+ [2] (./prefacio.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 21.
+ [1
+
+
+]) [2] [3
+
+]
+(./capitulo1.tex
+Cap\'{\i }tulo 1.
+File: imagem1.eps Graphic file (type eps)
+<imagem1.eps> [4
+
+]
+File: imagem2.eps Graphic file (type eps)
+ <imagem2.eps> [5]
+File: imagem3.eps Graphic file (type eps)
+ <imagem3.eps>) (./capitulo2.tex [6]
+Cap\'{\i }tulo 2.
+[7
+
+]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+ [8]
+Overfull \hbox (24.96634pt too wide) in paragraph at lines 99--100
+\OT1/cmr/m/n/12 Recomenda-se apa-gar to-das as in-forma^^Xc~oes con-ti-das no a
+r-ma-ze-na-mento in-terno do dis-po-si-tivo, restaurando-
+ []
+
+[9] [10] [11]) (./capitulo3.tex [12]
+Cap\'{\i }tulo 3.
+[13
+
+] [14] [15] [16]) (./capitulo4.tex [17]
+Cap\'{\i }tulo 4.
+[18
+
+] [19] [20]) [21] [22
+
+] (./capitulo5.tex
+Cap\'{\i }tulo 5.
+File: imagem4.eps Graphic file (type eps)
+<imagem4.eps> [23
+
+]
+File: imagem5.eps Graphic file (type eps)
+ <imagem5.eps> [24]
+File: imagem6.eps Graphic file (type eps)
+ <imagem6.eps>) (./capitulo6.tex [25]
+Cap\'{\i }tulo 6.
+[26
+
+]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¡ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no £ in font cmr12!
+ [27] [28] [29]
+Overfull \hbox (24.96634pt too wide) in paragraph at lines 176--177
+\OT1/cmr/m/n/12 Recomenda-se apa-gar to-das as in-forma^^Xc~oes con-ti-das no a
+r-ma-ze-na-mento in-terno do dis-po-si-tivo, restaurando-
+ []
+
+[30]) (./capitulo7.tex [31]
+Cap\'{\i }tulo 7.
+[32
+
+] [33] [34] [35] [36]) (./capitulo8.tex [37]
+Cap\'{\i }tulo 8.
+[38
+
+] [39]
+Overfull \hbox (21.51932pt too wide) in paragraph at lines 88--88
+[]\OT1/cmr/bx/n/17.28 Remover in-forma^^Xc~oes ar-ma-ze-na-das so-bre cart~oes 
+de cr^^Sedito 
+ []
+
+[40]) (./referencias.tex [41]
+Cap\'{\i }tulo 9.
+
+Overfull \hbox (15.86226pt too wide) in paragraph at lines 18--20
+[]\OT1/cmr/m/n/12 http://arstechnica.com/gadgets/2016/03/why-are-so-few-android
+-phones-encrypted-and-should-you-
+ []
+
+
+Overfull \hbox (7.70262pt too wide) in paragraph at lines 24--26
+[]\OT1/cmr/m/n/12 http://security.stackexchange.com/questions/10529/are -there-
+actually-any-advantages-to-android-
+ []
+
+[42
+
+]) [43] (./csdm.aux) ) 
+Here is how much of TeX's memory you used:
+ 1113 strings out of 494926
+ 13649 string characters out of 6180277
+ 72192 words of memory out of 5000000
+ 4411 multiletter control sequences out of 15000+600000
+ 10728 words of font info for 37 fonts, out of 8000000 for 9000
+ 16 hyphenation exceptions out of 8191
+ 25i,9n,23p,598b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on csdm.dvi (46 pages, 120720 bytes).
